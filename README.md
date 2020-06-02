@@ -2,5 +2,5 @@
 [Itch.io page](https://xiaopi0.itch.io/)
 ### Projects:
 ```markdown
-1. [Calculator project](https://xiaopi0.github.io/calculator)
+[Calculator project](https://xiaopi0.github.io/calculator)
 ```
