@@ -1,2 +1,6 @@
-## Welcome to Xiaopi0's projects webpage
-[Calculator project](https://xiaopi0.github.io/calculator)
+# Welcome to Xiaopi0's projects webpage
+[Itch.io page](https://xiaopi0.itch.io/)
+### Projects:
+```markdown
+1. [Calculator project](https://xiaopi0.github.io/calculator)
+```
