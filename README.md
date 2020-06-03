@@ -5,3 +5,4 @@
 
 ### Projects:
 1. [Calculator project](https://xiaopi0.github.io/calculator)
+2. [Recreation of Brackeys Cubethon](https://xiaopi0.github.io/cubethon)
