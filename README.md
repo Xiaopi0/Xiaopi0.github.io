@@ -9,8 +9,6 @@
 ### Projects:
 1. [Calculator project](https://xiaopi0.github.io/calculator)
 2. [Recreation of Brackeys Cubethon](https://xiaopi0.github.io/cubethon)
-
-### Me learning
-1. [Probuildertest](https://xiaopi0.github.io/probuildertest/)
+3. [Powershell Download Scripts](https://xiaopi0.github.io/powershelldownloadscripts)
 
 [All Kotlin projects by Xiaopi0](https://xiaopi0.github.io/AllKotlinProjectsInOne/)
